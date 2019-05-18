@@ -12,7 +12,7 @@
 
 ### Using [fvm](https://github.com/qlaffont/fvm-installer)
 ```
-fvm install --save --folder=esx esx-org/esx_ambulancejob
+fvm install --save --folder=esx ESX-Heikki/esx_ambulancejob
 ```
 
 ### Using Git
@@ -22,7 +22,7 @@ git clone https://github.com/ESX-Org/esx_ambulancejob [esx]/esx_ambulancejob
 ```
 
 ### Manually
-- Download https://github.com/ESX-Org/esx_ambulancejob/archive/master.zip
+- Download https://github.com/ESX-Heikki/esx_ambulancejob/archive/master.zip
 - Put it in the `[esx]` directory
 
 - Import `esx_ambulancejob.sql` in your database
